@@ -26,6 +26,7 @@ STM32 PID制御 Inventor
     ちょい高い気もする&センサ多すぎる気もするけど楽なので...
     電源(5V)とGND，各センサのアウトプット×8で10ピンです．
 - [フルブリッジDCモータドライバ](https://akizukidenshi.com/catalog/g/gK-09848/)
+    
     これ一個でモータ二個回せるらしいです すご～い 電源電圧範囲が広いのも嬉しいですね
 - コネクタ
     - [XHコネクタ 10P ハウジング](https://akizukidenshi.com/catalog/g/gC-12843/)

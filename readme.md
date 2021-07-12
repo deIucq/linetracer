@@ -85,7 +85,7 @@ Inventorというか3DCAD使うのロ技CAD講習会以来2回目なのでカス
 やってる途中で欠陥ポイントに気づけたりする&紙でメモ取るよりスッキリするしかっこよくてモチベ上がるので結構いいかも知れないと思いました．
 `Inventor`フォルダに全部入っています．
 全体図
-<img src="img/inventor_overall.png" style="zoom: 50%;" />
+<img src="img/Inventor_overall.png" style="zoom: 50%;" />
 
 ## 回路考える
 
